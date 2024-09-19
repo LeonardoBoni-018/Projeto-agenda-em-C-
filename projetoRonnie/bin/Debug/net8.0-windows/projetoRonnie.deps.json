@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projetoRonnie/1.0.0": {
+        "runtime": {
+          "projetoRonnie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetoRonnie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

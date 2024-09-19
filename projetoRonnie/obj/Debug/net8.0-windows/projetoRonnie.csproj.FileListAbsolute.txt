@@ -1,0 +1,16 @@
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\bin\Debug\net8.0-windows\projetoRonnie.exe
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\bin\Debug\net8.0-windows\projetoRonnie.deps.json
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\bin\Debug\net8.0-windows\projetoRonnie.runtimeconfig.json
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\bin\Debug\net8.0-windows\projetoRonnie.dll
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\bin\Debug\net8.0-windows\projetoRonnie.pdb
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.Form1.resources
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.csproj.GenerateResource.cache
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.AssemblyInfoInputs.cache
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.AssemblyInfo.cs
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.dll
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\refint\projetoRonnie.dll
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.pdb
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\projetoRonnie.genruntimeconfig.cache
+C:\Users\Leonardo Boni\OneDrive - Fatec Centro Paula Souza\SEGUNDO-SEMESTRE\Logica de programação- Roonie\PROJETO RONNIE\projetoRonnie\projetoRonnie\obj\Debug\net8.0-windows\ref\projetoRonnie.dll
